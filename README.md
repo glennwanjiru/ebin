@@ -5,6 +5,9 @@ By harnessing the power of AI in image classification the trash can is able to h
 * it is good for the environment
 * it is faster to use
 * it notifies you when trash is full
+
 * it enhance cleanliness and hence reduce diseases
-*realtime updates
-*sorts trash
+
+* realtime updates
+
+* sorts trash
